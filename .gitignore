@@ -1,0 +1,9 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+venv/
+__pycache__/
+*.pyc
+.env
+instance/
+.DS_Store
+curewise-firebase-adminsdk.json
